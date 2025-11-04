@@ -74,8 +74,8 @@ You: quit
 
 ## 👨‍💻 Author
 
-**[S Vyaas Sundar]**
-📧 [vyaascodes@gmai.com](mailto:vyaascodes@gmai.com)
+**S Vyaas Sundar**
+📧 [vyaascodes@gmail.com](mailto:vyaascodes@gmail.com)
 
 
 
